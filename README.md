@@ -3,4 +3,6 @@
 
 Changes done to add . readme
 
-This file contains steps to ow to deploy
+Changes for installation steps
+
+This file contains steps to how to deploy
